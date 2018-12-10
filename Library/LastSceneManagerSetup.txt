@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Chapter3/GoochShading.unity
+  isLoaded: 1
+  isActive: 1
