@@ -61,8 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Chapter3\LightPosPara.cs" />
-    <Compile Include="Assets\Scripts\Mathlib\Test.cs" />
-    <Compile Include="Assets\Scripts\Mathlib\Vector.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Matrix4x3.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Matrix4x4.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Vector3.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Vector3Test.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Vector4.cs" />
+    <Compile Include="Assets\Scripts\Mathlib\Vector4Test.cs" />
     <None Include="Assets\Shader\Chapter3\GoochShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/Unity/Git/RealTimeRendering/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
